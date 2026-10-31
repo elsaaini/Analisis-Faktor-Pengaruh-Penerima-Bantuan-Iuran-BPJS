@@ -4,6 +4,9 @@ Proyek ini bertujuan untuk  mengidentifikasi pola hubungan di antara variabel-va
 ## Dataset
 Dataset yang digunakan dalam analisis ini dapat diakses melalui link berikut:
 [Download Dataset Excel](./main/dataset%20bpjs.xlsx)
+## Tools
+* Excel
+* RStudio
 ## Tahapan Analisis
 1. Pembentukan Model
 2. Uji Asumsi untuk Model 
